@@ -1,6 +1,6 @@
-# 在 Bob Translate 中使用 d.run
+# 在 Bob Translate 中使用 思明智算中心
 
-本文说明如何在 Bob Translate 中调用 d.run 中的模型服务。
+本文说明如何在 Bob Translate 中调用 思明智算中心 中的模型服务。
 
 [Bob](https://bobtranslate.com/) 是一款 macOS 平台的翻译和 OCR 软件，
 您可以在任何应用程序中使用 Bob 进行翻译和 OCR，即用即走，简单、快捷、高效！
