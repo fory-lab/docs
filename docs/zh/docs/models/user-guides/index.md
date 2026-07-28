@@ -22,6 +22,3 @@ status: new
 | [Bob Translate](https://bobtranslate.com) | [在 Bob Translate 中使用 d.run 的模型服务](./bob-translate.md) |
 | [Lobe Chat](https://github.com/lobehub/lobe-chat) | [在 Lobe Chat 中使用 d.run 的模型服务](./lobe-chat.md) |
 
-## 贡献说明
-
-如果您有更多的使用场景，欢迎您通过 [Github PR](https://github.com/d-run/drun-docs) 告诉我们。
