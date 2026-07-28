@@ -1,7 +1,7 @@
-# 在 VSCode 和 Cline 中使用 d.run
+# 在 VSCode 和 Cline 中使用 思明智算中心
 
 [Cline](https://cline.bot/) 是一个 VSCode 插件，
-它可以帮助您在 VSCode 中使用 d.run 的模型服务。
+它可以帮助您在 VSCode 中使用 思明智算中心 的模型服务。
 
 ## 安装 Cline
 
