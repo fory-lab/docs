@@ -3,7 +3,7 @@
 **JupyterLab** 是基于 Web 的新一代 **Jupyter** 交互式开发环境，可以通过 Web 管理文件并执行 Shell 命令和Python 代码，还支持插件扩展。
 **JupyterLab** 包含了 **Jupyter Notebook** 的全部功能。
 
-下文介绍如何在 d.run 上使用 JupyterLab。
+下文介绍如何在 思明智算中心 上使用 JupyterLab。
 
 ## JupyterLab 基本操作
 
