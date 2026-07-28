@@ -1,4 +1,4 @@
-# 在 LobeChat 中使用 d.run
+# 在 LobeChat 中使用 思明智算中心
 
 [Lobe Chat](https://lobehub.com/zh) 是一个开源的现代设计 AI 聊天框架。
 支持多 AI 提供商（OpenAI/Claude 3/Gemini/Ollama/Qwen/DeepSeek）、知识库（文件上传/知识管理/RAG）、多模态（视觉/TTS/插件/艺术品）。一键免费部署您的私有 ChatGPT/Claude 应用。
@@ -11,7 +11,7 @@
 [Lobe Chat 官方文档](https://lobehub.com/zh/docs/self-hosting/start)下载并安装，
 Lobe Chat 提供了多种部署安装方式。
 
-本文以 Docker 为例，主要介绍如何使用 d.run 的模型服务。
+本文以 Docker 为例，主要介绍如何使用 思明智算中心 的模型服务。
 
 ```bash
 # lobechat 支持在部署时直接配置 API Key 和 API Host
