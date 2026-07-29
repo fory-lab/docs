@@ -1,4 +1,4 @@
-# 在 Bob Translate 中使用 思明智算中心
+# 在 Bob Translate 中使用 大模型服务
 
 本文说明如何在 Bob Translate 中调用 思明智算中心 中的模型服务。
 
