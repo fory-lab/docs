@@ -1,4 +1,4 @@
-# 在 VSCode 和 Cline 中使用 思明智算中心
+# 在 VSCode 和 Cline 中使用 大模型服务
 
 [Cline](https://cline.bot/) 是一个 VSCode 插件，
 它可以帮助您在 VSCode 中使用 思明智算中心 的模型服务。
@@ -29,7 +29,7 @@
 - Base URL：输入 `https://chat.d.run/v1`
 - API Key：输入您的 API Key
 - Model ID：输入您的 Model ID
-    - 可以从 d.run 的模型广场获取，MaaS 模型开头为 public/deeepseek-r1
+    - 可以从模型广场获取，MaaS 模型开头为 public/deeepseek-r1
     - 独立部署的模型服务，可以从模型服务列表获取
 
 ![Cline](../images/cline-in-vscode-3.png)
