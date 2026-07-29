@@ -17,8 +17,8 @@ status: new
 
 | 应用场景 | 操作说明 |
 | --- | ---- |
-| [Cline in VSCode](https://github.com/cline/cline) | [在 VSCode 中通过 Cline/RooCode 使用 d.run 的模型服务](./cline-in-vscode.md) |
-| [Cherry Studio](https://cherry-ai.com) | [在 Cherry Studio 中使用 d.run 的模型服务](./cherry-studio.md) |
-| [Bob Translate](https://bobtranslate.com) | [在 Bob Translate 中使用 d.run 的模型服务](./bob-translate.md) |
-| [Lobe Chat](https://github.com/lobehub/lobe-chat) | [在 Lobe Chat 中使用 d.run 的模型服务](./lobe-chat.md) |
+| [Cline in VSCode](https://github.com/cline/cline) | [在 VSCode 中通过 Cline/RooCode 使用模型服务](./cline-in-vscode.md) |
+| [Cherry Studio](https://cherry-ai.com) | [在 Cherry Studio 中使用模型服务](./cherry-studio.md) |
+| [Bob Translate](https://bobtranslate.com) | [在 Bob Translate 中使用模型服务](./bob-translate.md) |
+| [Lobe Chat](https://github.com/lobehub/lobe-chat) | [在 Lobe Chat 中使用模型服务](./lobe-chat.md) |
 
