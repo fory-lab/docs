@@ -46,7 +46,7 @@
 
     ![terminal11](../images/terminal11.png)
 
-4. 下图以 `ssh root@sh-01.d.run -p 30817` 为例。回车键继续操作。
+4. 下图以为例。回车键继续操作。
 
     ![terminal14](../images/terminal14.png)
 
