@@ -18,7 +18,7 @@
 
 ![Bob Translate](../images/bobtranslate-2.png)
 
-添加您从 d.run 获取的 API Key 和 API Host。
+添加您获取的 API Key 和 API Host。
 
 - API Key：输入您的 API Key
 - API Host：
