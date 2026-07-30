@@ -1,9 +1,9 @@
-# d.run
+# 思明智算中心平台
 
 [English](./README.md) | 中文
 
 
-- [试用 d.run](https://drun.smdata.com.cn/)，让算力更自由
+- [试用 思明智算中心平台](https://drun.smdata.com.cn/)，让算力更自由
 - [阅读文档](https://drun.smdata.com.cn/)了解更多细节
 
 d.run 是一个全方位的人工智能生成和增强平台，可以帮助您优化您的大语言模型，并利用您的知识库。
