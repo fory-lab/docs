@@ -1,11 +1,10 @@
-# d.run
+# Siming AI Computing Center Platform
 
 English | [中文](./README_zh.md)
 
-d.run = DaoCloud Runs Intelligence
 
-- [Try d.run](https://console.d.run/) to unlease your AI power
-- [Read document](https://docs.d.run/) to learn details
+- [Try Siming AI Computing Center Platform](https://drun.smdata.com.cn/) to unlease your AI power
+- [Read document](https://drun.smdata.com.cn/) to learn details
 
 d.run is a comprehensive AIGC platform that allows you to enhance your LLM models and
 leverage your organization's knowledge base. By integrating AI generation engines and plugins
