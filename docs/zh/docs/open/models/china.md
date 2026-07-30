@@ -255,4 +255,3 @@
 更多详情请查阅 GitHub 仓库：
 [awesome-LLMs-In-China](https://github.com/wgwang/awesome-LLMs-In-China)
 
-[注册并体验 d.run，支持任意大模型](https://console.d.run/){ .md-button }
