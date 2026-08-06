@@ -3,17 +3,17 @@
 INHERIT: navigation.yml
 
 # Project information
-site_name: d.run 让算力更自由
+site_name: 让算力更自由
 site_url: https://docs.d.run/
 site_author: d.run
 site_description: >-
-  d.run (DaoCloud Runs Intelligence)，揭示一个新一代软件体系下的全新算力世界，让算力更自由。
+  揭示一个新一代软件体系下的全新算力世界，让算力更自由。
 
 # copyright
-copyright: Copyright &copy; 2016 - 2025 d.run
+copyright: Copyright &copy; 2016 - 2025 智慧思明中心
 
 # Repository
-repo_name: d-run/drun-docs
+repo_name: 智慧思明中心平台文档
 
 repo_url: https://github.com/d-run/drun-docs
 edit_uri: edit/main/docs/zh/docs/
