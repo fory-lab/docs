@@ -71,7 +71,7 @@ nav:
           - 部署和体验 d.run DeepSeek: blogs/2025/0210-deep-drun.md
           - 2025 年人工智能趋势展望: blogs/2025/0102-ai-trend.md
       - 2024:
-          - d.run 是生成式 AI 的理想平台: blogs/2024/d.run.md
+          #- d.run 是生成式 AI 的理想平台: blogs/2024/d.run.md
           - K8s 与生成式 AI 珠联璧合: blogs/2024/0702-k8s-for-genai.md
           - OpenAI GPT-4o 完全免费: blogs/2024/0514-gpt4o.md
           - OpenAI 大型语言模型规范: blogs/2024/0509-model-spec.md
@@ -81,7 +81,7 @@ nav:
           - DBRX 开源 LLM 介绍: blogs/2024/0407-dbrx.md
           - AI 流程编排化算力为算利: blogs/2024/0403-cp-to-profit.md
           - 谁将替代 Transformer: blogs/2024/0327-transformer.md
-          - 金融行业迎来大模型时代: blogs/2024/0326-compute-power.md
+          #- 金融行业迎来大模型时代: blogs/2024/0326-compute-power.md
   - 智海拾贝:
       - 索引: open/index.md
       - 大模型:
@@ -120,10 +120,10 @@ plugins:
               name: 中文
               default: true
               build: true
-            - locale: en
-              name: English
-              build: true
-              nav_translations:
+            #- locale: en
+             # name: English
+              #build: true
+              #nav_translations:
                 首页: Home
                 d.run 文档: d.run Documentation
                 注册账号: Register Account
