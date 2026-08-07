@@ -264,9 +264,6 @@ pip install vllm-sr
 * **模型:** [https://huggingface.co/llm-semantic-router](https://huggingface.co/llm-semantic-router)
 * **社区:** vLLM Slack（[https://vllm-dev.slack.com/archives/C09CTGF8KCN）](https://vllm-dev.slack.com/archives/C09CTGF8KCN）)
 
-DaoCloud 已有[多位核心开发者](https://github.com/vllm-project/semantic-router/graphs/contributors)以 Approver 和 Maintainer 的身份，深度参与 vLLM Semantic Router 项目的核心代码实现、架构演进以及文档体系的持续建设与维护，为社区的稳定性和长期发展贡献力量。
-
-*彩虹之桥已经开启，欢迎来到 Iris。* 🌈
 
 ## 参考链接
 
