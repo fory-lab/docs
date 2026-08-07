@@ -67,9 +67,9 @@ nav:
           - LMCache 上线即支持 GPT-OSS: blogs/2025/lmcache.md
           - FlowSpeech 书面语转口语: blogs/2025/flowspeech.md
           - GPT-5 正式发布: blogs/2025/gpt5.md
-          - d.run 上新 DeepSeek-R1-0528: blogs/2025/0603-deepseek-0528.md
+          #- d.run 上新 DeepSeek-R1-0528: blogs/2025/0603-deepseek-0528.md
           - llm-d 它来了: blogs/2025/llmd.md
-          - 部署和体验 d.run DeepSeek: blogs/2025/0210-deep-drun.md
+          #- 部署和体验 d.run DeepSeek: blogs/2025/0210-deep-drun.md
           - 2025 年人工智能趋势展望: blogs/2025/0102-ai-trend.md
       - 2024:
           #- d.run 是生成式 AI 的理想平台: blogs/2024/d.run.md
