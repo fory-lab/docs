@@ -39,13 +39,13 @@ nav:
               - 在 Cherry Studio 中使用: models/user-guides/cherry-studio.md
               - 在 Bob Translate 中使用: models/user-guides/bob-translate.md
               - 在 LobeChat 中使用: models/user-guides/lobe-chat.md
-  - 视频教程:
-      - 索引: videos/index.md
-      - 注册与登录: videos/login.md
-      - 算力云: videos/zestu.md
-      - 大模型服务平台: videos/models.md
-      - AI 应用: videos/ai-app.md
-      - 费用中心: videos/bills.md
+  #- 视频教程:
+   #   - 索引: videos/index.md
+    #  - 注册与登录: videos/login.md
+     # - 算力云: videos/zestu.md
+      #- 大模型服务平台: videos/models.md
+      #- AI 应用: videos/ai-app.md
+      #- 费用中心: videos/bills.md
   - AI 行业新闻:
       - 索引: blogs/index.md
       - 2026:
