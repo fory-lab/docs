@@ -243,6 +243,3 @@ AI/ML 正在重塑基础设施，而 Kubernetes 也正在重塑自己。
 DaoCloud 将持续深度参与 Kubernetes 核心调度能力的演进，
 让云原生真正成为 **AI Infra 时代最稳固、最高效的基础底座** 。
 
-!!! tip
-
-    关注 DaoCloud，持续解锁 Kubernetes × AI Infra 前沿能力。
